@@ -35,3 +35,6 @@ body {
   margin-top: 32px;
   margin-bottom: 32px;
 }
+li {
+  display: inline;
+}
